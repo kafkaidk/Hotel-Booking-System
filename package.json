@@ -5,7 +5,10 @@
     "jsdom": "^22.1.0",
     "mongodb": "^6.1.0",
     "mongoose": "^7.5.3",
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "method-override": "^3.0.0",
+    "uuid": "^9.0.1"
+
   },
   "name": "hotel-booking-system",
   "version": "1.0.0",
